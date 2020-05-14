@@ -1,0 +1,51 @@
+body{
+    background:#828745; color:blue;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 50px;
+}
+h1{
+    color:blue;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+nav{
+    font-family: Impact;
+    color:  red;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 18;
+}
+
+li{
+    color:  red;
+    list-style-type: square;
+}
+
+a{
+    color:blueviolet;
+}
+
+img{
+    margin-bottom: 20px;
+}
+ibracadabra{
+    color:red;
+}
+
+footer{
+    margin-bottom: 50px;
+}
+.logo{
+    margin-bottom: 1px;
+    width: 100px;
+}
